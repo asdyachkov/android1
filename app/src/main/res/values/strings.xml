@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">MyFistApp</string>
+    <string name="app_name">Погода</string>
+    <string name="city_now">Москва</string>
+    <string name="temp_now">-23С</string>
+    <string name="wind_now">1 м/с</string>
+    <string name="place_desc">Ощущается как -27</string>
+    <string name="other">Другие города:</string>
+    <string name="city_1">Санкт-Петербург</string>
+    <string name="city_2">Токио</string>
+    <string name="city_3">Вашингтон</string>
+    <string name="city_4">Париж</string>
+    <string name="city_5">Берлин</string>
+    <string name="image_content_description">Облако</string>
+    <string name="info_content_description">Дополнительная информация о городе</string>
 </resources>
